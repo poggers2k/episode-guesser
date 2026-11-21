@@ -1,0 +1,159 @@
+{
+    "updated":  "2026-11-21",
+    "series":  [
+                   {
+                       "id":  "b99",
+                       "he":  "ברוקלין 99",
+                       "en":  "Brooklyn Nine-Nine",
+                       "tint":  "#2F5FA8",
+                       "genre":  "sitcom",
+                       "seasons":  8,
+                       "episodes":  153,
+                       "playable":  150,
+                       "v":  "C6C591C556"
+                   },
+                   {
+                       "id":  "bb",
+                       "he":  "שובר שורות",
+                       "en":  "Breaking Bad",
+                       "tint":  "#3E7B4F",
+                       "genre":  "drama",
+                       "seasons":  5,
+                       "episodes":  62,
+                       "playable":  62,
+                       "v":  "A205FDBC6A"
+                   },
+                   {
+                       "id":  "crown",
+                       "he":  "הכתר",
+                       "en":  "The Crown",
+                       "tint":  "#7A5C2E",
+                       "genre":  "drama",
+                       "seasons":  6,
+                       "episodes":  60,
+                       "playable":  60,
+                       "v":  "8C4F603FA4"
+                   },
+                   {
+                       "id":  "friends",
+                       "he":  "חברים",
+                       "en":  "Friends",
+                       "tint":  "#7B5EA7",
+                       "genre":  "sitcom",
+                       "seasons":  10,
+                       "episodes":  236,
+                       "playable":  236,
+                       "v":  "C2A7BEC8AD"
+                   },
+                   {
+                       "id":  "got",
+                       "he":  "משחקי הכס",
+                       "en":  "Game of Thrones",
+                       "tint":  "#5B6E86",
+                       "genre":  "drama",
+                       "seasons":  8,
+                       "episodes":  73,
+                       "playable":  73,
+                       "v":  "FE5D408550"
+                   },
+                   {
+                       "id":  "himym",
+                       "he":  "איך פגשתי את אמא",
+                       "en":  "How I Met Your Mother",
+                       "tint":  "#B0457B",
+                       "genre":  "sitcom",
+                       "seasons":  9,
+                       "episodes":  208,
+                       "playable":  208,
+                       "v":  "2A3E1978F7"
+                   },
+                   {
+                       "id":  "lost",
+                       "he":  "אבודים",
+                       "en":  "Lost",
+                       "tint":  "#2E7D6B",
+                       "genre":  "drama",
+                       "seasons":  6,
+                       "episodes":  121,
+                       "playable":  121,
+                       "v":  "281E5C2EA7"
+                   },
+                   {
+                       "id":  "modern",
+                       "he":  "משפחה מודרנית",
+                       "en":  "Modern Family",
+                       "tint":  "#3D8C8C",
+                       "genre":  "sitcom",
+                       "seasons":  11,
+                       "episodes":  250,
+                       "playable":  250,
+                       "v":  "A24637018D"
+                   },
+                   {
+                       "id":  "office",
+                       "he":  "המשרד",
+                       "en":  "The Office",
+                       "tint":  "#4F6D8F",
+                       "genre":  "sitcom",
+                       "seasons":  9,
+                       "episodes":  202,
+                       "playable":  202,
+                       "v":  "6B0F9F6A15"
+                   },
+                   {
+                       "id":  "pb",
+                       "he":  "פריזן ברייק",
+                       "en":  "Prison Break",
+                       "tint":  "#6B6F78",
+                       "genre":  "drama",
+                       "seasons":  5,
+                       "episodes":  88,
+                       "playable":  87,
+                       "v":  "BCAD578E8B"
+                   },
+                   {
+                       "id":  "seinfeld",
+                       "he":  "סיינפלד",
+                       "en":  "Seinfeld",
+                       "tint":  "#C2563A",
+                       "genre":  "sitcom",
+                       "seasons":  9,
+                       "episodes":  180,
+                       "playable":  176,
+                       "v":  "69CE2B1816"
+                   },
+                   {
+                       "id":  "sopranos",
+                       "he":  "הסופרנוס",
+                       "en":  "The Sopranos",
+                       "tint":  "#8A6A3B",
+                       "genre":  "drama",
+                       "seasons":  6,
+                       "episodes":  86,
+                       "playable":  86,
+                       "v":  "2F4CC3A017"
+                   },
+                   {
+                       "id":  "st",
+                       "he":  "דברים מוזרים",
+                       "en":  "Stranger Things",
+                       "tint":  "#B8323A",
+                       "genre":  "drama",
+                       "seasons":  5,
+                       "episodes":  42,
+                       "playable":  42,
+                       "v":  "4949D69813"
+                   },
+                   {
+                       "id":  "tbbt",
+                       "he":  "המפץ הגדול",
+                       "en":  "The Big Bang Theory",
+                       "tint":  "#D08A1E",
+                       "genre":  "sitcom",
+                       "seasons":  12,
+                       "episodes":  279,
+                       "playable":  279,
+                       "v":  "98A27D9970"
+                   }
+               ]
+}
